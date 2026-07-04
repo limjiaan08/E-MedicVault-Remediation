@@ -2,9 +2,9 @@
 ## MediChain Solutions Bhd — E-MedicVault Security Remediation Project
 
 ### 👤 Student Profile
-**Name:** LIM JIA AN \
+**Name:** LIM JIA AN 
 
-**Matric Number:** A22EE0110 \
+**Matric Number:** A22EE0110 
 
 **Course / Year:** 4 / SECRH (Computer Networks and Security)
 
